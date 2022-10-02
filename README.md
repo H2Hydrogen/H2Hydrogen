@@ -15,4 +15,4 @@
 
 ###### 硬盘紧缺，帮帮气态氢（（（
 
-![image](https://user-images.githubusercontent.com/111329731/193461705-e09fcf12-8522-4a76-9158-2a2c7b15d30e.png)
+![image](https://user-images.githubusercontent.com/111329731/193461749-bb6af78a-2664-4811-b539-9041cbfae882.png)
