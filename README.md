@@ -2,6 +2,8 @@
 
 ## 宇宙很大，生活更大，我们一定还能相见的。但，可惜的是，主不在乎（doge
 
+![A1 (1)](https://user-images.githubusercontent.com/111329731/196027211-09ead4f3-d27b-48b1-bd8b-76b5403e1a1d.png)
+
 ###### bash用习惯了就不会用cmd了（小声）
 
  ```c
